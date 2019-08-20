@@ -1,0 +1,16 @@
+[submodule "extra-addons/mexico"]
+	path = extra-addons/mexico
+	url = git@git.indboo.com:Indboo-dev/mexico.git
+	branch = 12.0
+[submodule "extra-addons/vendor-bills"]
+	path = extra-addons/vendor-bills
+	url = git@git.indboo.com:Indboo-dev/vendor-bills.git
+	branch = 12.0
+[submodule "extra-addons/reporting-engine"]
+	path = extra-addons/reporting-engine
+	url = https://github.com/onesteinbv/reporting-engine.git
+	branch = 12_mig_bi_view_editor
+[submodule "extra-addons/server-tools"]
+	path = extra-addons/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 12.0
